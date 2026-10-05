@@ -8,7 +8,7 @@ namespace Variables_1  // namespace propio
 {
     internal class Program // Inicio de la clase
     {
-        static void Main(string[] args)
+        public static void Ejemplo(string[] args)
         {
             /*
              * TIPOS DE VARIABLES
