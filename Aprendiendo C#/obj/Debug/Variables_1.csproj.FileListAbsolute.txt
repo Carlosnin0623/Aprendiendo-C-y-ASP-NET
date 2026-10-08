@@ -6,3 +6,11 @@ C:\Users\canin\OneDrive - Registro Inmobiliario\Escritorio\Aprendiendo-C-y-ASP-N
 C:\Users\canin\OneDrive - Registro Inmobiliario\Escritorio\Aprendiendo-C-y-ASP-NET\Aprendiendo C#\obj\Debug\Variables_1.exe
 C:\Users\canin\OneDrive - Registro Inmobiliario\Escritorio\Aprendiendo-C-y-ASP-NET\Aprendiendo C#\obj\Debug\Variables_1.pdb
 C:\Users\canin\OneDrive - Registro Inmobiliario\Escritorio\Aprendiendo-C-y-ASP-NET\Aprendiendo C#\obj\Debug\Variables_1.exe.config
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-C-y-ASP-NET\Aprendiendo C#\bin\Debug\Variables_1.exe.config
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-C-y-ASP-NET\Aprendiendo C#\bin\Debug\Variables_1.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-C-y-ASP-NET\Aprendiendo C#\bin\Debug\Variables_1.pdb
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-C-y-ASP-NET\Aprendiendo C#\obj\Debug\Variables_1.csproj.AssemblyReference.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-C-y-ASP-NET\Aprendiendo C#\obj\Debug\Variables_1.exe.config
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-C-y-ASP-NET\Aprendiendo C#\obj\Debug\Variables_1.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-C-y-ASP-NET\Aprendiendo C#\obj\Debug\Variables_1.exe
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-C-y-ASP-NET\Aprendiendo C#\obj\Debug\Variables_1.pdb
