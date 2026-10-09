@@ -1,0 +1,7 @@
+C:\Users\canin\OneDrive - Registro Inmobiliario\Escritorio\Aprendiendo-C-y-ASP-NET\1) Aprendiendo C#\Aprendiendo C#\bin\Debug\Aprendiendo C#.exe.config
+C:\Users\canin\OneDrive - Registro Inmobiliario\Escritorio\Aprendiendo-C-y-ASP-NET\1) Aprendiendo C#\Aprendiendo C#\bin\Debug\Aprendiendo C#.exe
+C:\Users\canin\OneDrive - Registro Inmobiliario\Escritorio\Aprendiendo-C-y-ASP-NET\1) Aprendiendo C#\Aprendiendo C#\bin\Debug\Aprendiendo C#.pdb
+C:\Users\canin\OneDrive - Registro Inmobiliario\Escritorio\Aprendiendo-C-y-ASP-NET\1) Aprendiendo C#\Aprendiendo C#\obj\Debug\Aprendiendo C#.csproj.AssemblyReference.cache
+C:\Users\canin\OneDrive - Registro Inmobiliario\Escritorio\Aprendiendo-C-y-ASP-NET\1) Aprendiendo C#\Aprendiendo C#\obj\Debug\Aprendiendo C#.csproj.CoreCompileInputs.cache
+C:\Users\canin\OneDrive - Registro Inmobiliario\Escritorio\Aprendiendo-C-y-ASP-NET\1) Aprendiendo C#\Aprendiendo C#\obj\Debug\Aprendiendo C#.exe
+C:\Users\canin\OneDrive - Registro Inmobiliario\Escritorio\Aprendiendo-C-y-ASP-NET\1) Aprendiendo C#\Aprendiendo C#\obj\Debug\Aprendiendo C#.pdb
