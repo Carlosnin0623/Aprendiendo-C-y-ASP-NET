@@ -8,7 +8,7 @@ namespace Variables_1
 {
     internal class _06_Ejecicio_de_programacion
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             /*
              *  Construir un programa que pida por pantalla 3 números y luego diga

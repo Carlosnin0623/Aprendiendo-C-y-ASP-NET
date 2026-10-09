@@ -50,6 +50,7 @@
     <Compile Include="04_Datos_de_entrada_2.cs" />
     <Compile Include="05_Operadores relacionales.cs" />
     <Compile Include="06_Ejecicio_de_programacion.cs" />
+    <Compile Include="07_Expresiones_logicas.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
