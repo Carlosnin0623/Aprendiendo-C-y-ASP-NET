@@ -8,24 +8,28 @@ namespace Variables_1
 {
     internal class _04_Datos_de_entrada
     {
-        static void Main(string[] args)
+        public static void Ejemplo(string[] args)
         {
             /* Capturar datos de entrada */
 
             string nombre;
             short edad;
+            double altura;
+
             try
             {
                 Console.WriteLine("Ingrese su nombre:");
                 nombre = Console.ReadLine();
                 Console.WriteLine("Ingresa tu edad:");
                 edad = Convert.ToInt16(Console.ReadLine());
-                Console.WriteLine("Mi nombre es: {0} y mi edad es: {1}", nombre, edad);
-                Console.ReadKey();
+                Console.WriteLine("Ingresa tu altura:");
+                altura = Convert.ToDouble(Console.ReadLine());
+                Console.WriteLine("Mi nombre es: {0}, mi edad es: {1} y mi altura es: {2}", nombre, edad, altura);
+           
 
             }catch(FormatException)
             {
-                Console.WriteLine("Solo es permitido agregar valores númericos en el campo edad");
+                Console.WriteLine("En esta campo solo es permitido valores numericos");
 
             }catch(OverflowException)
             {
@@ -36,8 +40,8 @@ namespace Variables_1
                 Console.WriteLine("Ha ocurrido el siguiente error: {0}", ex.ToString());
             }
 
-            Console.ReadKey();
-            
+            Console.WriteLine("Por fvaor, Presiona la tecla enter para salir.");
+            Console.ReadKey();  
         }
     }
 }

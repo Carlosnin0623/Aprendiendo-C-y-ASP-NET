@@ -48,6 +48,7 @@
     <Compile Include="02_Variables.cs" />
     <Compile Include="03_Operaciones_Matematicas.cs" />
     <Compile Include="04_Datos_de_entrada.cs" />
+    <Compile Include="04_Datos_de_entrada_2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
