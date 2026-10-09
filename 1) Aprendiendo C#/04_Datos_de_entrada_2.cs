@@ -9,7 +9,7 @@ namespace Variables_1
 {
     internal class _04_Datos_de_entrada_2
     {
-        static void Main(string[] args)
+        public static void Ejemplo(string[] args)
         {
             string nombre;
 

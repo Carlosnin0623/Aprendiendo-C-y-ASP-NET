@@ -49,6 +49,8 @@
     <Compile Include="03_Operaciones_Matematicas.cs" />
     <Compile Include="04_Datos_de_entrada.cs" />
     <Compile Include="04_Datos_de_entrada_2.cs" />
+    <Compile Include="05_Operadores relacionales.cs" />
+    <Compile Include="06_Ejecicio_de_programacion.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
