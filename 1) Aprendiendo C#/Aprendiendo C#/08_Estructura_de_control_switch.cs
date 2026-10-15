@@ -9,7 +9,7 @@ namespace Aprendiendo_C_
 {
     internal class _08_Estructura_de_control_switch
     {
-        static void Main(string[] args)
+        public static void Ejemplo(string[] args)
         {
             /* ejericio: Calculadora de operaciones aritmeticas */
 

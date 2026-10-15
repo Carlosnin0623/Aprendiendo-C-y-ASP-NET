@@ -13,3 +13,4 @@ C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-C-y-ASP-NET\1) Aprendiendo C#\Ap
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-C-y-ASP-NET\1) Aprendiendo C#\Aprendiendo C#\bin\Debug\Aprendiendo C#.exe.config
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-C-y-ASP-NET\1) Aprendiendo C#\Aprendiendo C#\bin\Debug\Aprendiendo C#.exe
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-C-y-ASP-NET\1) Aprendiendo C#\Aprendiendo C#\bin\Debug\Aprendiendo C#.pdb
+C:\Users\canin\OneDrive - Registro Inmobiliario\Escritorio\Aprendiendo-C-y-ASP-NET\1) Aprendiendo C#\Aprendiendo C#\obj\Debug\Aprendiendo C#.exe.config
