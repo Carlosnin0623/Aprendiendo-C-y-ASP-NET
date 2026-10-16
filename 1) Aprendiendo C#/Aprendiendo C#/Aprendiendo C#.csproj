@@ -55,6 +55,8 @@
     <Compile Include="09_TryCatch.cs" />
     <Compile Include="10_Bucle_For.cs" />
     <Compile Include="11_Foreach.cs" />
+    <Compile Include="12_Bucle_While.cs" />
+    <Compile Include="13_Bucle_Do_While.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

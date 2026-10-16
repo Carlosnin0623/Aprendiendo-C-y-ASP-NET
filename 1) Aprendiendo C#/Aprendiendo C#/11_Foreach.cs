@@ -8,9 +8,22 @@ namespace Aprendiendo_C_
 {
     internal class _11_Foreach
     {
-        static void Main(string[] args)
+        public static void Ejemplo(string[] args)
         {
+            /*
+             *  El forEach nos va ayudar a recorrer cadenas de texto o arrays
+             *
+             *
+             */
 
+            string nombre = "Academia Ciencia";
+
+            foreach (char letra in nombre)
+            {
+               Console.WriteLine(" {0} ", letra);
+            }
+
+            Console.ReadKey();
         }
     }
 }
