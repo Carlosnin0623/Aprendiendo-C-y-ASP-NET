@@ -57,6 +57,8 @@
     <Compile Include="11_Foreach.cs" />
     <Compile Include="12_Bucle_While.cs" />
     <Compile Include="13_Bucle_Do_While.cs" />
+    <Compile Include="14_Break_Continue_Goto.cs" />
+    <Compile Include="15_Ejercicio_Calculadora.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

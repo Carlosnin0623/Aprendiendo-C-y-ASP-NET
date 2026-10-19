@@ -8,7 +8,7 @@ namespace Aprendiendo_C_
 {
     internal class _13_Bucle_Do_While
     {
-        static void Main(string[] args)
+        public static void Ejemplo(string[] args)
         {
             /*
              *   Ciclo Do While
