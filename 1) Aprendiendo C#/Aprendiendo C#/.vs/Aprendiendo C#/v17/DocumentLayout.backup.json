@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\canin\\OneDrive - Registro Inmobiliario\\Escritorio\\Aprendiendo-C-y-ASP-NET\\1) Aprendiendo C#\\Aprendiendo C#\\",
+  "WorkspaceRootPath": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-C-y-ASP-NET\\1) Aprendiendo C#\\Aprendiendo C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F8BCA77-5BE0-4C1D-B964-C4C15C70349D}|Aprendiendo C#.csproj|c:\\users\\canin\\onedrive - registro inmobiliario\\escritorio\\aprendiendo-c-y-asp-net\\1) aprendiendo c#\\aprendiendo c#\\14_break_continue_goto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F8BCA77-5BE0-4C1D-B964-C4C15C70349D}|Aprendiendo C#.csproj|solutionrelative:14_break_continue_goto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F8BCA77-5BE0-4C1D-B964-C4C15C70349D}|Aprendiendo C#.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo-c-y-asp-net\\1) aprendiendo c#\\aprendiendo c#\\16_ejercicios_practica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BCA77-5BE0-4C1D-B964-C4C15C70349D}|Aprendiendo C#.csproj|solutionrelative:16_ejercicios_practica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +14,19 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "14_Break_Continue_Goto.cs",
-              "DocumentMoniker": "C:\\Users\\canin\\OneDrive - Registro Inmobiliario\\Escritorio\\Aprendiendo-C-y-ASP-NET\\1) Aprendiendo C#\\Aprendiendo C#\\14_Break_Continue_Goto.cs",
-              "RelativeDocumentMoniker": "14_Break_Continue_Goto.cs",
-              "ToolTip": "C:\\Users\\canin\\OneDrive - Registro Inmobiliario\\Escritorio\\Aprendiendo-C-y-ASP-NET\\1) Aprendiendo C#\\Aprendiendo C#\\14_Break_Continue_Goto.cs",
-              "RelativeToolTip": "14_Break_Continue_Goto.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAgwDkAAAAVAAAAAAAAAA==",
+              "Title": "16_Ejercicios_Practica.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-C-y-ASP-NET\\1) Aprendiendo C#\\Aprendiendo C#\\16_Ejercicios_Practica.cs",
+              "RelativeDocumentMoniker": "16_Ejercicios_Practica.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-C-y-ASP-NET\\1) Aprendiendo C#\\Aprendiendo C#\\16_Ejercicios_Practica.cs",
+              "RelativeToolTip": "16_Ejercicios_Practica.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T15:25:13.204Z",
+              "WhenOpened": "2026-10-23T00:41:47.888Z",
               "EditorCaption": ""
             }
           ]

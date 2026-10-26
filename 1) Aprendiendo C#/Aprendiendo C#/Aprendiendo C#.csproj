@@ -59,6 +59,7 @@
     <Compile Include="13_Bucle_Do_While.cs" />
     <Compile Include="14_Break_Continue_Goto.cs" />
     <Compile Include="15_Ejercicio_Calculadora.cs" />
+    <Compile Include="16_Ejercicios_Practica.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
