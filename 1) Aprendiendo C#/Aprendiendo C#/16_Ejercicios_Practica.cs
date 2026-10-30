@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Aprendiendo_C_
@@ -10,22 +11,31 @@ namespace Aprendiendo_C_
     {
         static void Main(string[] args)
         {
-            // Ejercicio tabla de multiplicar del número ingresado
+            /*
+             *  Escribe un programa que muestre un contador regresivo desde un número 
+             *  ingresado por el usuario hasta 1.
+
+             *  
+             * 
+             * 
+             * 
+             */
 
             int numero;
 
-            Console.WriteLine("Ejercicio tabla de multiplicar");
-            Console.WriteLine("Digite el número para crear su tabla");
+            Console.WriteLine("Digite el valor");
             numero = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("");
 
-            for(int i = 1; i <= 10; i++)
+            while (numero >= 1)
             {
-                Console.WriteLine("{0} x {1} = {2}", numero, i, numero * i);
+                Console.WriteLine("{0}", numero);
+                Thread.Sleep(100);
+                numero--;
             }
 
+
             Console.ReadKey();
-
-
         }
     }
 }

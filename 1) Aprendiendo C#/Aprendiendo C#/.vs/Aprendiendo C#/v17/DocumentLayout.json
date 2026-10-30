@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{7F8BCA77-5BE0-4C1D-B964-C4C15C70349D}|Aprendiendo C#.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo-c-y-asp-net\\1) aprendiendo c#\\aprendiendo c#\\16_ejercicios_practica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F8BCA77-5BE0-4C1D-B964-C4C15C70349D}|Aprendiendo C#.csproj|solutionrelative:16_ejercicios_practica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BCA77-5BE0-4C1D-B964-C4C15C70349D}|Aprendiendo C#.csproj|C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-C-y-ASP-NET\\1) Aprendiendo C#\\Aprendiendo C#\\11_foreach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BCA77-5BE0-4C1D-B964-C4C15C70349D}|Aprendiendo C#.csproj|solutionrelative:11_foreach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,20 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "11_Foreach.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-C-y-ASP-NET\\1) Aprendiendo C#\\Aprendiendo C#\\11_Foreach.cs",
+              "RelativeDocumentMoniker": "11_Foreach.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-C-y-ASP-NET\\1) Aprendiendo C#\\Aprendiendo C#\\11_Foreach.cs",
+              "RelativeToolTip": "11_Foreach.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T17:36:05.807Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +40,7 @@
               "RelativeDocumentMoniker": "16_Ejercicios_Practica.cs",
               "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-C-y-ASP-NET\\1) Aprendiendo C#\\Aprendiendo C#\\16_Ejercicios_Practica.cs",
               "RelativeToolTip": "16_Ejercicios_Practica.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-23T00:41:47.888Z",
               "EditorCaption": ""
