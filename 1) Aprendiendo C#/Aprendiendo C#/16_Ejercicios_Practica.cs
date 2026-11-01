@@ -9,7 +9,7 @@ namespace Aprendiendo_C_
 {
     internal class _16_Ejercicios_Practica
     {
-        static void Main(string[] args)
+       public static void Ejemplo(string[] args)
         {
             /*
              *  Escribe un programa que muestre un contador regresivo desde un número 
@@ -22,18 +22,24 @@ namespace Aprendiendo_C_
              */
 
             int numero;
+            int resultado = 0;
+            string respuesta;
 
-            Console.WriteLine("Digite el valor");
-            numero = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("");
-
-            while (numero >= 1)
+            do
             {
-                Console.WriteLine("{0}", numero);
-                Thread.Sleep(100);
-                numero--;
-            }
+                Console.WriteLine("Introduce el número");
+                numero = Convert.ToInt32(Console.ReadLine());
 
+                resultado += numero;
+
+                Console.WriteLine("Quieres agregar otro número");
+                Console.WriteLine("Si");
+                Console.WriteLine("No");
+                respuesta = Console.ReadLine();
+
+            } while (respuesta.ToLower() == "si");
+
+            Console.WriteLine("El resultado de la suma de todos los números es: {0}", resultado);
 
             Console.ReadKey();
         }
