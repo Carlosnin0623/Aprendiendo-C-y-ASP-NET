@@ -61,6 +61,8 @@
     <Compile Include="15_Ejercicio_Calculadora.cs" />
     <Compile Include="16_Ejercicios_Practica.cs" />
     <Compile Include="17_Metodos_clase_teorica.cs" />
+    <Compile Include="18_Ejercicios_Metodos.cs" />
+    <Compile Include="19_Arreglos_clase_teorica.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

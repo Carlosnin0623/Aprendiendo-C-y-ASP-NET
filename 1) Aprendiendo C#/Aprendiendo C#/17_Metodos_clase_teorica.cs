@@ -8,7 +8,7 @@ namespace Aprendiendo_C_
 {
     internal class _17_Metodos_clase_teorica
     {
-        static void Main(string[] args)
+       public static void Ejemplo(string[] args)
         {
             /*
              *  Funciones y metodos
@@ -44,7 +44,7 @@ namespace Aprendiendo_C_
 
         }
 
-        static decimal Calcular(string nombre, int numeroEscritorios)
+        public static decimal Calcular(string nombre, int numeroEscritorios)
         {
             decimal valor = numeroEscritorios * 650.00m;
             decimal resultado = 0.0m;
