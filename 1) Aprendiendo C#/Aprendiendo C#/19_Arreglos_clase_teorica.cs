@@ -8,8 +8,8 @@ namespace Aprendiendo_C_
 {
     internal class _19_Arreglos_clase_teorica
     {
-        static void Main(string[] args)
-        {
+       public static void Ejemplo(string[] args)
+       {
             /*
              * Arreglos (Arrays)
              * Un array es un indicador que puede almacenar varios valores simultaneamente.

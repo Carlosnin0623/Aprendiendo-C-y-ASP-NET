@@ -63,6 +63,7 @@
     <Compile Include="17_Metodos_clase_teorica.cs" />
     <Compile Include="18_Ejercicios_Metodos.cs" />
     <Compile Include="19_Arreglos_clase_teorica.cs" />
+    <Compile Include="20_Arreglos_Bidimencionales_Teoria.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
